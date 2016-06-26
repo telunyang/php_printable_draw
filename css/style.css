@@ -1,0 +1,26 @@
+@CHARSET "UTF-8";
+td{
+        width: 150px;
+        font-size: 16px;
+        line-height: 50px;
+}
+
+td.underline{
+        border-bottom: 1px solid #000000;
+}
+
+td.left{
+        border-left: 1px solid #000000;
+}
+
+td.right{
+        border-right: 1px solid #000000;
+}
+
+td.center{
+        text-align: center;
+}
+
+td.head{
+        background-color: #EFEFEF;
+}
